@@ -35,7 +35,7 @@ export default {
 
   .task-text {
     font-size: 1.4rem;
-    margin-bottom: 15vh;
+    margin-bottom: 15%;
   }
 
   .task-img {

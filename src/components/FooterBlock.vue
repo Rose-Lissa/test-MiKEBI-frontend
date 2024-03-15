@@ -58,7 +58,7 @@ export default {
     flex-wrap: wrap;
     gap: 0 15px;
     padding: 20px;
-    margin: 0 15px 15px;
+    margin: 0 0 15px;
     background: rgba(0, 0, 0, 0.15);
   }
 
